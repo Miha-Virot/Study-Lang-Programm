@@ -1,7 +1,7 @@
 
 public class main {
 
-	public static void main(String[] args) {
+	public main(String[] args) {
 		// TODO Auto-generated method stub
 		byte num = 2;
 		int i = 2165;
@@ -17,14 +17,14 @@ public class main {
 		
 		String str="Hello World!";
 				
-		System.out.print("Variable = " + num);
-		System.out.print("Variable = " + i);
-		System.out.print("Variable = " + l);
-		System.out.print("Variable = " + num_2);
-		System.out.print("Variable = " + num_3);
-		System.out.print("Variable = " + sym);
-		System.out.print("Variable = " + is_happy);
-		System.out.print("Variable = " + str);
+		System.out.println("Variable = " + num);
+		System.out.println("Variable = " + i);
+		System.out.println("Variable = " + l);
+		System.out.println("Variable = " + num_2);
+		System.out.println("Variable = " + num_3);
+		System.out.println("Variable = " + sym);
+		System.out.println("Variable = " + is_happy);
+		System.out.println("Variable = " + str);
 	}
 
 }
