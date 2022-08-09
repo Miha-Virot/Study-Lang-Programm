@@ -1,0 +1,1 @@
+export const objects = [{ object: "0"}, {object:0}, {object:0.1}];
